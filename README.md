@@ -58,4 +58,4 @@ Actual Amount Received by Bridge: 90000000.0
 
 ---
 
-**Discovered and developed by:** Eng. MAEEN AHMED QASEM AL-GUMAEI
+**Discovered and developed by:** **Eng. MAEEN AHMED QASEM AL-GUMAEI**
